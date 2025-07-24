@@ -11,7 +11,7 @@ Sie zeigen das Fingeralphabet der Deutschen Gebärdensprache (DGS) und dürfen *
   <tr>
     <td align="center">
       <a href="https://github.com/LillyLernt/DGS/raw/main/FingeralphabetA2.pdf">
-        <img src="posterA2.jpg" alt="Vorschau Poster A2" width="180"/>
+        <img src="posterA2.jpg" alt="Vorschau Poster A2" width="240"/>
       </a><br>
       <a href="https://github.com/LillyLernt/DGS/raw/main/FingeralphabetA2.pdf">
         📥 Hier klicken zum Herunterladen (PDF)
@@ -19,7 +19,7 @@ Sie zeigen das Fingeralphabet der Deutschen Gebärdensprache (DGS) und dürfen *
     </td>
     <td align="center">
       <a href="https://github.com/LillyLernt/DGS/raw/main/FingeralphabetA4.pdf">
-        <img src="posterA4.jpg" alt="Vorschau Poster 4×A4" width="180"/>
+        <img src="posterA4.jpg" alt="Vorschau Poster 4×A4" width="240"/>
       </a><br>
       <a href="https://github.com/LillyLernt/DGS/raw/main/FingeralphabetA4.pdf">
         📥 Hier klicken zum Herunterladen (PDF)
