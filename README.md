@@ -6,15 +6,17 @@ Sie zeigen das Fingeralphabet der Deutschen Gebärdensprache (DGS) und dürfen *
 ---
 
 ## 🖼️ Vorschau & Download
-
+<div>
 <a href="https://github.com/LillyLernt/DGS/raw/main/FingeralphabetA2.pdf">
-  <img src="posterA2.jpg" alt="Vorschau Poster A2" width="60"/>
+  <img src="posterA2.jpg" alt="Vorschau Poster A2" width="180"/>
 </a>  
 <a href="https://github.com/LillyLernt/DGS/raw/main/FingeralphabetA2.pdf">📥 [Hier klicken zum Herunterladen des Posters (PDF)]</a>
 
-<br><br>
+</div>
+<div>
 
 <a href="https://github.com/LillyLernt/DGS/raw/main/FingeralphabetA4.pdf">
-  <img src="posterA4.jpg" alt="Vorschau Poster 4xA4" width="60"/>
+  <img src="posterA4.jpg" alt="Vorschau Poster 4xA4" width="1580"/>
 </a>  
 <a href="https://github.com/LillyLernt/DGS/raw/main/FingeralphabetA4.pdf">📥 [Hier klicken zum Herunterladen des Posters (PDF)]</a>
+</div>
