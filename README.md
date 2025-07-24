@@ -5,8 +5,16 @@ Sie zeigen das Fingeralphabet der Deutschen Gebärdensprache (DGS) und dürfen *
 
 ## 📥 Download
 
-[![Poster A2 Vorschau](posterA2.jpg)](FingeralphabetA2.pdf)  
-▶️ **[PDF öffnen – A2-Version](FingeralphabetA2.pdf)**
+<div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap;">
 
-[![Poster 4×A4 Vorschau](posterA4.jpg)](FingeralphabetA4.pdf)  
-▶️ **[PDF öffnen – 4×A4-Version](FingeralphabetA4.pdf)**
+<a href="FingeralphabetA2.pdf" target="_blank">
+  <img src="posterA2.jpg" alt="Poster A2 Vorschau" style="max-height: 400px;">
+  <br>▶️ PDF öffnen – A2-Version
+</a>
+
+<a href="FingeralphabetA4.pdf" target="_blank">
+  <img src="posterA4.jpg" alt="Poster A4 Vorschau" style="max-height: 400px;">
+  <br>▶️ PDF öffnen – 4×A4-Version
+</a>
+
+</div>
