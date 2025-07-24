@@ -3,18 +3,18 @@
 Diese beiden Poster gehören zum Bilderbuch **„Lilly lernt Gebärdensprache“**.  
 Sie zeigen das Fingeralphabet der Deutschen Gebärdensprache (DGS) und dürfen **für Bildungszwecke kostenlos genutzt und weitergegeben** werden.
 
-## 📥 Download
+---
 
-<div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap;">
+## 🖼️ Vorschau & Download
 
-<a href="FingeralphabetA2.pdf" target="_blank">
-  <img src="posterA2.jpg" alt="Poster A2 Vorschau" style="max-height: 40px;">
-  <br>▶️ PDF öffnen – A2-Version
-</a>
+<a href="https://github.com/LillyLernt/DGS/blob/main/FingeralphabetA2.pdf">
+  <img src="posterA2.jpg" alt="Vorschau Poster A2" width="600"/>
+</a>  
+📥 [Hier klicken zum Herunterladen des Posters (PDF)](https://github.com/LillyLernt/DGS/blob/main/FingeralphabetA2.pdf)
 
-<a href="FingeralphabetA4.pdf" target="_blank">
-  <img src="posterA4.jpg" alt="Poster A4 Vorschau" style="max-height: 40px;">
-  <br>▶️ PDF öffnen – 4×A4-Version
-</a>
+<br><br>
 
-</div>
+<a href="https://github.com/LillyLernt/DGS/blob/main/FingeralphabetA4.pdf">
+  <img src="posterA4.jpg" alt="Vorschau Poster 4xA4" width="600"/>
+</a>  
+📥 [Hier klicken zum Herunterladen des Posters (PDF)](https://github.com/LillyLernt/DGS/blob/main/FingeralphabetA4.pdf)
