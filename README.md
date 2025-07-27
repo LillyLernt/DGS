@@ -28,7 +28,7 @@ Sie zeigen das Fingeralphabet der Deutschen Gebärdensprache (DGS) und dürfen *
   </tr>
 </table>
 
-Über das Buch:
+## Über das Buch:
 Freundschaft braucht keine Worte
 
 Als Clara neu in Lillys Klasse kommt, ist plötzlich alles ein bisschen anders:
