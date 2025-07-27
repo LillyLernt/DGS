@@ -55,6 +55,7 @@ Mit vielen kleinen Aha-Momenten, echtem Herz und einem Fingeralphabet-Poster zum
 Ein Buch, das Mut macht, Neues zu lernen –
 und zeigt:
 Freundschaft braucht keine Worte. Nur ein offenes Herz.
+
 <small>
 Impressum Angaben gemäß § 5 TMG: Patrick Becke c/o ctbIT GmbHM arie-Curie-Straße 18 30890 Barsinghausen 
 </small>
