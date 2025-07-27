@@ -29,12 +29,6 @@ Sie zeigen das Fingeralphabet der Deutschen Gebärdensprache (DGS) und dürfen *
 </table>
 
 
-
-## Impressum
-
-Angaben gemäß § 5 TMG:
-
-Patrick Becke 
-c/o ctbIT GmbH
-Marie-Curie-Straße 18 
-30890 Barsinghausen 
+<small>
+Impressum Angaben gemäß § 5 TMG: Patrick Becke c/o ctbIT GmbHM arie-Curie-Straße 18 30890 Barsinghausen 
+</small>
