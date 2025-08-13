@@ -43,6 +43,7 @@ wie man jemanden anspricht, der seinen Namen nicht hören kann
 wie Inklusion im Alltag funktioniert – ganz praktisch und mit viel Herz
 Und dann steht plötzlich ein ganz besonderes Projekt bevor: eine Theateraufführung. Aber wie kann die Klasse das Theaterstück umsetzen, damit auch Claras Familie alles versteht?
 
+<a href="https://www.amazon.de/dp/B0FK332YMT">Zum Buch auf Amazon</a>
 
 „Lilly lernt Gebärdensprache“ ist ein einfühlsamer Einstieg in die Welt der Deutschen Gebärdensprache (DGS) –
 für Kinder ab 4 Jahren, Familien, pädagogische Fachkräfte und alle, die Inklusion leben wollen.
