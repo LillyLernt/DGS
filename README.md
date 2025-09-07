@@ -13,19 +13,6 @@ Ein Buch, das zeigt: **Inklusion lebt von kleinen Gesten und großem Herz.**
 
 ---
 
-## ✨ Wie es weitergeht
-
-„Lilly lernt Gebärdensprache“ ist erst der Anfang.  
-Es sind bereits weitere Geschichten mit Lilly und Clara geplant – zum Beispiel bei einem Besuch bei Clara zuhause oder bei einem Klassenausflug.  
-
-Dabei sollen weitere Fragen beantwortet werden, etwa:  
-*Wie lebt eine gehörlose Familie? Was sind Hörgeräte und Cochlea-Implantate? Und wie funktioniert Gebärdensprache im Alltag – auch als Klassengemeinschaft?*  
-
-Nach und nach entstehen so neue Geschichten, die Kinder neugierig machen und Erwachsenen helfen, besser zu verstehen.  
-Dazu wird es auch weitere **Begleitmaterialien** geben – zum gemeinsamen Lernen, Spielen und Entdecken.
-
----
-
 ## 🖼️ Poster zum Download
 
 Als Begleitung zum Buch gibt es zwei Poster mit dem **Fingeralphabet der Deutschen Gebärdensprache (DGS)**.  
@@ -54,6 +41,19 @@ Sie dürfen **kostenlos heruntergeladen, weitergegeben und für Bildungszwecke g
 
 ---
 
+## ✨ Wie es weitergeht
+
+„Lilly lernt Gebärdensprache“ ist erst der Anfang.  
+Es sind bereits weitere Geschichten mit Lilly und Clara geplant – zum Beispiel bei einem Besuch bei Clara zuhause oder bei einem Klassenausflug.  
+
+Dabei sollen weitere Fragen beantwortet werden, etwa:  
+*Wie lebt eine gehörlose Familie? Was sind Hörgeräte und Cochlea-Implantate? Und wie funktioniert Gebärdensprache im Alltag – auch als Klassengemeinschaft?*  
+
+Nach und nach entstehen so neue Geschichten, die Kinder neugierig machen und Erwachsenen helfen, besser zu verstehen.  
+Dazu wird es auch weitere **Begleitmaterialien** geben – zum gemeinsamen Lernen, Spielen und Entdecken.
+
+---
+
 ## 📚 Wo man das Buch findet
 
 Neben Amazon ist „Lilly lernt Gebärdensprache“ auch im **stationären Buchhandel** erhältlich:  
@@ -64,30 +64,27 @@ Neben Amazon ist „Lilly lernt Gebärdensprache“ auch im **stationären Buchh
 - Buchhandlung Borchers, Bad Nenndorf  
 - Das Papierlädchen, Wennigsen  
 
-➡️ Verlegt durch die **Druckerei Weinaug (Barsinghausen)** und **CTB IT**  
+➡️ Verlegt durch die **Druckerei Weinaug** und **CtbIT** aus Barsinghausen
 
 ---
 
 ## 📰 Stimmen aus der Presse
 
-> „Das Buch ist ein Herzensprojekt.“  
-> So titelte die HAZ über die Veröffentlichung. Sie beschreibt, wie ich – ein Vater ohne Vorerfahrung im Schreiben – den Weg gegangen bin, ein Kinderbuch zu verfassen, weil mein Sohn gehörlos geboren wurde.  
-> Im Artikel heißt es: *„Mit dem Buch möchte ich vermitteln, dass es gar nicht so schwer ist, Gebärdensprache zu lernen. Kinder sollen Lillys Situation nachempfinden können – und Erwachsene nehmen auch vieles mit.“*  
-> 👉 [HAZ-Artikel lesen](https://www.haz.de/lokales/umland/barsinghausen/barsinghausen-warum-ein-vater-ein-kinderbuch-ueber-gebaerdensprache-schreibt-PYVGAD5ZZVERJELGCT3YSX562I.html)
+**HAZ – „Das Buch ist ein Herzensprojekt“**  
+> Vor der Geburt seines Sohnes habe er noch nichts über Gebärdensprache gewusst – wie so viele andere Menschen auch. „Mit dem Buch möchte ich vermitteln, dass es gar nicht so schwer ist, sie zu lernen“, erzählt der 34-Jährige.  
+👉 [Zum Artikel](https://www.haz.de/lokales/umland/barsinghausen/barsinghausen-warum-ein-vater-ein-kinderbuch-ueber-gebaerdensprache-schreibt-PYVGAD5ZZVERJELGCT3YSX562I.html)
 
 ---
 
-> „Freundschaft braucht keine Worte – nur ein offenes Herz.“  
-> Unter dieser Überschrift berichtet Con-Nect über die Entstehungsgeschichte. Dort wird erzählt, wie wir in unserer Familie Gebärdensprache gelernt haben, weil klar war: Sie wird die Muttersprache unseres Sohnes – trotz Cochlea-Implantaten.  
-> Das Fazit des Artikels: *„Das positive Feedback von Gehörlosen, Pädagogen und unserem Dozenten zeigt, dass wir einen Nerv getroffen haben.“*  
-> 👉 [Con-Nect-Artikel lesen](https://www.con-nect.de/wennigsen/nachricht/lilly-lernt-gebaerdensprache-vater-eines-gehoerlosen-kindes-schreibt-kinderbuch)
+**Con-Nect – „Freundschaft braucht keine Worte – nur ein offenes Herz“**  
+> Für die Familie Grund genug, gemeinsam Gebärdensprache zu lernen. Aus dieser Erfahrung ist nun ein Kinderbuch entstanden: „Lilly lernt Gebärdensprache“. Es soll anderen Kindern das Thema Gehörlosigkeit und den Zugang zur Gebärdensprache altersgerecht näherbringen. 
+👉 [Zum Artikel](https://www.con-nect.de/wennigsen/nachricht/lilly-lernt-gebaerdensprache-vater-eines-gehoerlosen-kindes-schreibt-kinderbuch)
 
 ---
 
-> „Gebärdensprache und Lichtsignale – Bad Nenndorfer Familie zeigt: So lebt man mit einem gehörlosen Kind.“  
-> So fassten die Schaumburger Nachrichten die Geschichte zusammen. Der Artikel schildert, wie wir unser Zuhause mit Lichtsignalen, Farben und kleinen technischen Lösungen barrierefrei gemacht haben.  
-> Dort heißt es: *„Immer wieder fällt auf, dass die Gesellschaft kaum auf taube Menschen eingestellt ist. Sich einfach trauen, auf die Personen zuzugehen – das ist die Botschaft des Vaters.“*  
-> 👉 [Schaumburger Nachrichten lesen](https://www.sn-online.de/lokales/schaumburg/nenndorf/taubes-kind-bad-nenndorfer-familie-findet-kreative-loesungen-GFZMSAANMJGJZF7C53SR3WMZLQ.html)
+**Schaumburger Nachrichten – „Gebärdensprache und Lichtsignale – Bad Nenndorfer Familie zeigt: So lebt man mit einem gehörlosen Kind“**  
+> „Wir mussten am Anfang echt überlegen, wie wir damit umgehen“, erinnert sich der Bad Nenndorfer. „Grundsätzlich scheue ich mich nicht, neue Wege zu gehen, um ein Problem zu lösen“, sagt er. Für das Paar war deshalb klar: „Wir müssen Gebärdensprache lernen. Wir wussten, dass Gebärdensprache seine Muttersprache sein wird.“ 
+👉 [Zum Artikel](https://www.sn-online.de/lokales/schaumburg/nenndorf/taubes-kind-bad-nenndorfer-familie-findet-kreative-loesungen-GFZMSAANMJGJZF7C53SR3WMZLQ.html)
 
 ---
 
@@ -101,6 +98,9 @@ Wenn du erfahren möchtest, sobald es **neue Poster, Materialien oder Fortsetzun
 So bekommst du automatisch eine Info, wenn es etwas Neues gibt!
 
 ---
+<small>
+Impressum Angaben gemäß § 5 TMG: Patrick Becke c/o ctbIT GmbHM arie-Curie-Straße 18 30890 Barsinghausen 
+</small>
 
 🌱 **Fazit:**  
 „Lilly lernt Gebärdensprache“ macht Mut, Neues zu lernen – und zeigt, wie Inklusion im Alltag gelingt.  
