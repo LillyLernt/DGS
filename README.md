@@ -71,19 +71,19 @@ Neben Amazon ist „Lilly lernt Gebärdensprache“ auch im **stationären Buchh
 ## 📰 Stimmen aus der Presse
 
 **HAZ – „Das Buch ist ein Herzensprojekt“**  
-> Vor der Geburt seines Sohnes habe er noch nichts über Gebärdensprache gewusst – wie so viele andere Menschen auch. „Mit dem Buch möchte ich vermitteln, dass es gar nicht so schwer ist, sie zu lernen“, erzählt der 34-Jährige.  
+> Vor der Geburt seines Sohnes habe er noch nichts über Gebärdensprache gewusst – wie so viele andere Menschen auch. „Mit dem Buch möchte ich vermitteln, dass es gar nicht so schwer ist, sie zu lernen“, erzählt der 34-Jährige.
 👉 [Zum Artikel](https://www.haz.de/lokales/umland/barsinghausen/barsinghausen-warum-ein-vater-ein-kinderbuch-ueber-gebaerdensprache-schreibt-PYVGAD5ZZVERJELGCT3YSX562I.html)
 
 ---
 
 **Con-Nect – „Freundschaft braucht keine Worte – nur ein offenes Herz“**  
-> Für die Familie Grund genug, gemeinsam Gebärdensprache zu lernen. Aus dieser Erfahrung ist nun ein Kinderbuch entstanden: „Lilly lernt Gebärdensprache“. Es soll anderen Kindern das Thema Gehörlosigkeit und den Zugang zur Gebärdensprache altersgerecht näherbringen. 
+> Für die Familie Grund genug, gemeinsam Gebärdensprache zu lernen. Aus dieser Erfahrung ist nun ein Kinderbuch entstanden: „Lilly lernt Gebärdensprache“. Es soll anderen Kindern das Thema Gehörlosigkeit und den Zugang zur Gebärdensprache altersgerecht näherbringen.
 👉 [Zum Artikel](https://www.con-nect.de/wennigsen/nachricht/lilly-lernt-gebaerdensprache-vater-eines-gehoerlosen-kindes-schreibt-kinderbuch)
 
 ---
 
 **Schaumburger Nachrichten – „Gebärdensprache und Lichtsignale – Bad Nenndorfer Familie zeigt: So lebt man mit einem gehörlosen Kind“**  
-> „Wir mussten am Anfang echt überlegen, wie wir damit umgehen“, erinnert sich der Bad Nenndorfer. „Grundsätzlich scheue ich mich nicht, neue Wege zu gehen, um ein Problem zu lösen“, sagt er. Für das Paar war deshalb klar: „Wir müssen Gebärdensprache lernen. Wir wussten, dass Gebärdensprache seine Muttersprache sein wird.“ 
+> „Wir mussten am Anfang echt überlegen, wie wir damit umgehen“, erinnert sich der Bad Nenndorfer. „Grundsätzlich scheue ich mich nicht, neue Wege zu gehen, um ein Problem zu lösen“, sagt er. Für das Paar war deshalb klar: „Wir müssen Gebärdensprache lernen. Wir wussten, dass Gebärdensprache seine Muttersprache sein wird.“
 👉 [Zum Artikel](https://www.sn-online.de/lokales/schaumburg/nenndorf/taubes-kind-bad-nenndorfer-familie-findet-kreative-loesungen-GFZMSAANMJGJZF7C53SR3WMZLQ.html)
 
 ---
