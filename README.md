@@ -86,22 +86,10 @@ Neben Amazon ist „Lilly lernt Gebärdensprache“ auch im **stationären Buchh
 > „Wir mussten am Anfang echt überlegen, wie wir damit umgehen“, erinnert sich der Bad Nenndorfer. „Grundsätzlich scheue ich mich nicht, neue Wege zu gehen, um ein Problem zu lösen“, sagt er. Für das Paar war deshalb klar: „Wir müssen Gebärdensprache lernen. Wir wussten, dass Gebärdensprache seine Muttersprache sein wird.“
 👉 [Zum Artikel](https://www.sn-online.de/lokales/schaumburg/nenndorf/taubes-kind-bad-nenndorfer-familie-findet-kreative-loesungen-GFZMSAANMJGJZF7C53SR3WMZLQ.html)
 
----
-
-## 🔔 Immer auf dem Laufenden bleiben
-
-Wenn du erfahren möchtest, sobald es **neue Poster, Materialien oder Fortsetzungen** gibt, kannst du dieses Projekt auf GitHub abonnieren:
-
-1. Oben rechts im Repository auf **⭐ Star** klicken, um das Projekt zu unterstützen.  
-2. Auf **👁️ Watch** klicken und **"All Activity"** auswählen, um Benachrichtigungen bei neuen Updates zu erhalten.  
-
-So bekommst du automatisch eine Info, wenn es etwas Neues gibt!
 
 ---
-<small>
-Impressum Angaben gemäß § 5 TMG: Patrick Becke c/o ctbIT GmbHM arie-Curie-Straße 18 30890 Barsinghausen 
-</small>
+---
 
-🌱 **Fazit:**  
-„Lilly lernt Gebärdensprache“ macht Mut, Neues zu lernen – und zeigt, wie Inklusion im Alltag gelingt.  
-Ein Buch, das aus dem Herzen einer Familie entstanden ist – und das nun viele andere Kinder und Erwachsene erreicht.
+
+> Impressum Angaben gemäß § 5 TMG: Patrick Becke c/o ctbIT GmbH Marie-Curie-Straße 18 30890 Barsinghausen 
+
