@@ -1,6 +1,7 @@
 # 📖 Lilly lernt Gebärdensprache
+<a href="https://www.amazon.de/dp/B0FK332YMT">
 <p align="left"> <img src="https://github.com/LillyLernt/DGS/releases/download/v1.1/CoverFreundschaft.png" alt="Cover: Lilly lernt Gebärdensprache – Freundschaft braucht keine Worte" width="250"> </p>
-
+</a>
 „Freundschaft braucht keine Worte – nur ein offenes Herz.“
 
 Dieses Kinderbuch erzählt die Geschichte von **Lilly**, die eine neue Klassenkameradin bekommt: **Clara**. Clara ist gehörlos.
@@ -11,8 +12,9 @@ Ein warmherziges Bilderbuch über Inklusion, Neugier und Verständigung - erzäh
 👉 [Zum Buch auf Amazon](https://www.amazon.de/dp/B0FK332YMT)
 
 # 🌈 Bald erhältlich: Bei Clara Zuhause
+<a href="https://www.amazon.de/dp/B0FK332YMT">
 <p align="left"> <img src="https://github.com/LillyLernt/DGS/releases/download/v1.1/CoverBeiClara.png" alt="Cover: Lilly lernt Gebärdensprache – Bei Clara Zuhause" width="250"> </p>
-
+</a>
 Im zweiten Band besucht Lilly ihre Freundin Clara zuhause – und entdeckt, wie eine gehörlose Familie lebt.
 Lichtsignale statt Klingelton, Cochlea Implantate oder Hörgeräte, Gebärden im Alltag, ein stilles Haus voller Leben und eine kleine Katze, die plötzlich verschwindet.
 
