@@ -7,6 +7,7 @@ Dieses Kinderbuch erzählt die Geschichte von **Lilly**, die eine neue Klassenka
 Gemeinsam mit ihrem Lehrer Herrn Simon und der Dolmetscherin Frau Birkenfeld lernt die Klasse ihre ersten Gebärden, das Fingeralphabet und entdeckt, dass man auch ohne Worte Freundschaften schließen kann.
 
 Ein warmherziges Bilderbuch über Inklusion, Neugier und Verständigung - erzählt in liebevollen Illustrationen für Kinder ab 4 Jahren.
+
 👉 [Zum Buch auf Amazon](https://www.amazon.de/dp/B0FK332YMT)
 
 # 🌈 Bald erhältlich: Bei Clara Zuhause
