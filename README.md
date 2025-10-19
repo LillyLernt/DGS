@@ -13,7 +13,7 @@ Ein warmherziges Bilderbuch über Inklusion, Neugier und Verständigung – erz�
 <p align="left"> <img src="https://github.com/LillyLernt/DGS/releases/download/v1.1/CoverBeiClara.png" alt="Cover: Lilly lernt Gebärdensprache – Bei Clara Zuhause" width="250"> </p>
 
 Im zweiten Band besucht Lilly ihre Freundin Clara zuhause – und entdeckt, wie eine gehörlose Familie lebt.
-Lichtsignale statt Klingelton, Cochlea Implantate und Hörgeräte, Gebärden im Alltag, ein stilles Haus voller Leben – und eine kleine Katze, die plötzlich verschwindet.
+Lichtsignale statt Klingelton, Cochlea Implantate oder Hörgeräte, Gebärden im Alltag, ein stilles Haus voller Leben – und eine kleine Katze, die plötzlich verschwindet.
 
 Ein einfühlsames Buch über Freundschaft, Offenheit und das Staunen darüber, dass vieles anders – und trotzdem wunderbar ist.
 
