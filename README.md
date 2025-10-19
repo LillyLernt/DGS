@@ -4,16 +4,16 @@
 „Freundschaft braucht keine Worte – nur ein offenes Herz.“
 
 Dieses Kinderbuch erzählt die Geschichte von **Lilly**, die eine neue Klassenkameradin bekommt: **Clara**. Clara ist gehörlos.
-Gemeinsam mit ihrem Lehrer Herrn Simon und der Dolmetscherin Frau Birkenfeld lernt die Klasse ihre ersten Gebärden, das Fingeralphabet – und entdeckt, dass man auch ohne Worte Freundschaften schließen kann.
+Gemeinsam mit ihrem Lehrer Herrn Simon und der Dolmetscherin Frau Birkenfeld lernt die Klasse ihre ersten Gebärden, das Fingeralphabet und entdeckt, dass man auch ohne Worte Freundschaften schließen kann.
 
-Ein warmherziges Bilderbuch über Inklusion, Neugier und Verständigung – erzählt in liebevollen Illustrationen für Kinder ab 4 Jahren.
+Ein warmherziges Bilderbuch über Inklusion, Neugier und Verständigung - erzählt in liebevollen Illustrationen für Kinder ab 4 Jahren.
 👉 [Zum Buch auf Amazon](https://www.amazon.de/dp/B0FK332YMT)
 
 # 🌈 Bald erhältlich: Bei Clara Zuhause
 <p align="left"> <img src="https://github.com/LillyLernt/DGS/releases/download/v1.1/CoverBeiClara.png" alt="Cover: Lilly lernt Gebärdensprache – Bei Clara Zuhause" width="250"> </p>
 
 Im zweiten Band besucht Lilly ihre Freundin Clara zuhause – und entdeckt, wie eine gehörlose Familie lebt.
-Lichtsignale statt Klingelton, Cochlea Implantate oder Hörgeräte, Gebärden im Alltag, ein stilles Haus voller Leben – und eine kleine Katze, die plötzlich verschwindet.
+Lichtsignale statt Klingelton, Cochlea Implantate oder Hörgeräte, Gebärden im Alltag, ein stilles Haus voller Leben und eine kleine Katze, die plötzlich verschwindet.
 
 Ein einfühlsames Buch über Freundschaft, Offenheit und das Staunen darüber, dass vieles anders – und trotzdem wunderbar ist.
 
