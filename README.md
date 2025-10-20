@@ -10,6 +10,7 @@ Gemeinsam mit ihrem Lehrer Herrn Simon und der Dolmetscherin Frau Birkenfeld ler
 Ein warmherziges Bilderbuch über Inklusion, Neugier und Verständigung - erzählt in liebevollen Illustrationen für Kinder ab 4 Jahren.
 
 👉 [Zum Buch auf Amazon](https://www.amazon.de/dp/B0FK332YMT)
+👉 [Für Schulen Einzelbuch oder "Klassensatz" bestellbar bei der Druckerei Weinaug](https://www.druckerei-weinaug.de/)
 
 # 🌈 Bald erhältlich: Bei Clara Zuhause
 <a href="https://www.amazon.de/dp/B0FK332YMT">
