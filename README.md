@@ -12,8 +12,8 @@ Ein warmherziges Bilderbuch über Inklusion, Neugier und Verständigung - erzäh
 👉 [Zum Buch auf Amazon](https://www.amazon.de/dp/B0FK332YMT)
 👉 [Für Schulen Einzelbuch oder "Klassensatz" bestellbar bei der Druckerei Weinaug](https://www.druckerei-weinaug.de/)
 
-# 🌈 Bald erhältlich: Bei Clara zu Hause
-<a href="https://www.amazon.de/dp/B0FK332YMT">
+# 🌈 NEU: Bei Clara zu Hause
+<a href="https://www.amazon.de/dp/B0G3XH5MLK">
 <p align="left"> <img src="https://github.com/LillyLernt/DGS/releases/download/v1.1/CoverBeiClara.png" alt="Cover: Lilly lernt Gebärdensprache – Bei Clara Zuhause" width="250"> </p>
 </a>
 Im zweiten Band besucht Lilly ihre Freundin Clara und entdeckt, wie eine gehörlose Familie lebt: 
@@ -21,11 +21,13 @@ Lichtsignale statt Klingelton, Gebärden im Alltag, ein stilles Haus voller Lebe
 
 Ein einfühlsames Buch über Freundschaft, Offenheit und das Staunen darüber, dass vieles anders und trotzdem wunderbar ist. Denn echte Freundschaft überbrückt jedes Hindernis.
 
+👉 [Zum Buch auf Amazon](https://www.amazon.de/dp/B0G3XH5MLK)
+
 ---
 
 ## 🖼️ Poster zum Download
 
-Als Begleitung zum Buch gibt es zwei Poster mit dem **Fingeralphabet der Deutschen Gebärdensprache (DGS)**.  
+Als Begleitung zum ersten Buch gibt es zwei Poster mit dem **Fingeralphabet der Deutschen Gebärdensprache (DGS)**.  
 Sie dürfen **kostenlos heruntergeladen, weitergegeben und für Bildungszwecke genutzt** werden.  
 
 <table>
@@ -47,20 +49,33 @@ Sie dürfen **kostenlos heruntergeladen, weitergegeben und für Bildungszwecke g
       </a>
     </td>
   </tr>
+  
 </table>
 
----
+Als Begleitung zum zweiten Buch gibt es zwei Poster mit **Ersten Gebärden der Deutschen Gebärdensprache (DGS)**.  
+Sie dürfen **kostenlos heruntergeladen, weitergegeben und für Bildungszwecke genutzt** werden.  
 
-## ✨ Wie es weitergeht
-
-„Lilly lernt Gebärdensprache“ ist erst der Anfang.  
-Es sind bereits weitere Geschichten mit Lilly und Clara geplant – zum Beispiel bei einem Besuch bei Clara zuhause oder bei einem Klassenausflug.  
-
-Dabei sollen weitere Fragen beantwortet werden, etwa:  
-*Wie lebt eine gehörlose Familie? Was sind Hörgeräte und Cochlea-Implantate? Und wie funktioniert Gebärdensprache im Alltag – auch als Klassengemeinschaft?*  
-
-Nach und nach entstehen so neue Geschichten, die Kinder neugierig machen und Erwachsenen helfen, besser zu verstehen.  
-Dazu wird es auch weitere **Begleitmaterialien** geben – zum gemeinsamen Lernen, Spielen und Entdecken.
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/LillyLernt/DGS/releases/download/v1.0/ErsteGebaerdenA2.pdf">
+        <img src="https://github.com/LillyLernt/DGS/releases/download/v1.0/poster2A2.jpg" alt="Vorschau Poster A2" width="300"/>
+      </a><br>
+      <a href="https://github.com/LillyLernt/DGS/releases/download/v1.0/ErsteGebaerdenA2.pdf">
+        📥 A2-Poster herunterladen (PDF)
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/LillyLernt/DGS/releases/download/v1.0/ErsteGebaerdenA4.pdf">
+        <img src="https://github.com/LillyLernt/DGS/releases/download/v1.0/poster2A4.jpg" alt="Vorschau Poster 4×A4" width="300"/>
+      </a><br>
+      <a href="https://github.com/LillyLernt/DGS/releases/download/v1.0/ErsteGebaerdenA4.pdf">
+        📥 4×A4-Version herunterladen (PDF)
+      </a>
+    </td>
+  </tr>
+  
+</table>
 
 ---
 
